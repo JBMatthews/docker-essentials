@@ -1,2 +1,2 @@
-# docker-essentials
-This folder contains courseware related Docker Essentials, created for Virtuant LLC 
+# Docker Essentials
+This folder contains courseware related Docker Essentials, created for Virtuant LLC.
